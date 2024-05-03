@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yan Zhang"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her" # example: "she/her"  
   #bio              : "Short biography for the left-hand sidebar"
   location         : "Melbourne, Australia"
   university         : "University of Melbourne"
