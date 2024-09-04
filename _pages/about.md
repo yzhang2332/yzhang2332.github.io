@@ -43,7 +43,7 @@ For more details, please visit my [Google Scholar](https://scholar.google.com/ci
 >In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems  
 
 >**Can Quadruped Guide Robots be Used as Guide Dogs?.**<br>
->Luyao Wang*, Qihe Chen*, **Yan Zhang**, Ziang Li, Tingmin Yan, Fan Wang, Guyue Zhou, and Jiangtao Gong.<br>
+>Luyao Wang\*, Qihe Chen\*, **Yan Zhang**, Ziang Li, Tingmin Yan, Fan Wang, Guyue Zhou, and Jiangtao Gong.<br>
 >In 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 
 >**Annotating Covert Hazardous Driving Scenarios Online: Utilizing Drivers' Electroencephalography (EEG) Signals.**<br>
