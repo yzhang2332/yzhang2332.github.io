@@ -31,7 +31,7 @@ For more details, please visit my [Google Scholar](https://scholar.google.com/ci
 >In Transportation research part F: traffic psychology and behaviour<br>
 
 >**Evaluation of Pedestrian Safety in a High-Fidelity Simulation Environment Framework.**<br>
->Lin Ma\*, Longrui Chen\*, **Yan Zhang***, Mengdi Chu, Wenjie Jiang, Jiahao Shen, Chuxuan Li, Yifeng Shi, Nairui Luo, Jirui Yuan, Guyue Zhou, Jiangtao Gong.<br>
+>Lin Ma&#42;, Longrui Chen&#42;, **Yan Zhang&#42;**, Mengdi Chu, Wenjie Jiang, Jiahao Shen, Chuxuan Li, Yifeng Shi, Nairui Luo, Jirui Yuan, Guyue Zhou, Jiangtao Gong.<br>
 >In 2024 IEEE International Conference on Intelligent Transportation Systems (ITSC)
 
 ^: This publication was my solo-authored thesis.
@@ -43,7 +43,7 @@ For more details, please visit my [Google Scholar](https://scholar.google.com/ci
 >In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems  
 
 >**Can Quadruped Guide Robots be Used as Guide Dogs?.**<br>
->Luyao Wang\*, Qihe Chen\*, **Yan Zhang**, Ziang Li, Tingmin Yan, Fan Wang, Guyue Zhou, and Jiangtao Gong.<br>
+>Luyao Wang&#42;, Qihe Chen&#42;, **Yan Zhang**, Ziang Li, Tingmin Yan, Fan Wang, Guyue Zhou, and Jiangtao Gong.<br>
 >In 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 
 >**Annotating Covert Hazardous Driving Scenarios Online: Utilizing Drivers' Electroencephalography (EEG) Signals.**<br>
