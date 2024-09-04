@@ -50,11 +50,20 @@ For more details, please visit my [Google Scholar](https://scholar.google.com/ci
 >Chen Zheng, Muxiao Zi, Wenjie Jiang, Mengdi Chu, **Yan Zhang**, Jirui Yuan, Guyue Zhou, and Jiangtao Gong.<br>
 >In 2023 IEEE International Conference on Robotics and Automation (ICRA)
 
-Academic Services
+Awards
 ======
-* Reviewer
-  * CHI2024, ITSC2024, OzCHI2024
-* Student Volunteer
-  * CHI2024  
+* 2024 ACM/IEEE International Conference on Human-Robot Interaction (HRI) Robot Competition Winner
+* 2019 – 2021 CityU Scholarship
+* 2018 - 2021 Dean’s List
+* 2017 – 2021 CityU Mainland Student Full Scholarship
+* 2020 Outbound Exchange Awards
+
+Services
+======
+* Reviewer: CHI2024, ITSC2024, OzCHI2024
+* Student Volunteer: CHI2024
+* University Services
+  * 2017-2021 Student Representative
+  * 2018 - 2019 Vice-President of CityU Chinese Orchestra
 
 
