@@ -31,7 +31,7 @@ For more details, please visit my [Google Scholar](https://scholar.google.com/ci
 >In Transportation research part F: traffic psychology and behaviour<br>
 
 >**Evaluation of Pedestrian Safety in a High-Fidelity Simulation Environment Framework.**<br>
->Lin Ma*, Longrui Chen*, **Yan Zhang***, Mengdi Chu, Wenjie Jiang, Jiahao Shen, Chuxuan Li, Yifeng Shi, Nairui Luo, Jirui Yuan, Guyue Zhou, Jiangtao Gong.<br>
+>Lin Ma\*, Longrui Chen\*, **Yan Zhang***, Mengdi Chu, Wenjie Jiang, Jiahao Shen, Chuxuan Li, Yifeng Shi, Nairui Luo, Jirui Yuan, Guyue Zhou, Jiangtao Gong.<br>
 >In 2024 IEEE International Conference on Intelligent Transportation Systems (ITSC)
 
 ^: This publication was my solo-authored thesis.
