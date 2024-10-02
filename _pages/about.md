@@ -52,11 +52,9 @@ For more details, please visit my [Google Scholar](https://scholar.google.com/ci
 
 Projects
 ======
-**OfficeMate**
+* **OfficeMate**: Design Considerations and Preliminary Evaluation of an Office Assistant Robot<br>
 
-Design Considerations and Preliminary Evaluation of an Office Assistant Robot
-
-<iframe width="448" height="252" src="https://www.youtube.com/embed/FzSA27W1sek" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="336" height="189" src="https://www.youtube.com/embed/FzSA27W1sek" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/><br/>
 
 Master Supervision
