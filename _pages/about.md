@@ -50,6 +50,23 @@ For more details, please visit my [Google Scholar](https://scholar.google.com/ci
 >Chen Zheng, Muxiao Zi, Wenjie Jiang, Mengdi Chu, **Yan Zhang**, Jirui Yuan, Guyue Zhou, and Jiangtao Gong.<br>
 >In 2023 IEEE International Conference on Robotics and Automation (ICRA)
 
+Projects
+======
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FzSA27W1sek" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Master Supervision
+======
+* 2024, Integrating Large Language Models with Physical Affordances for Enhanced Manipulation Tasks in Tiago Robot
+* 2024, ROSAnnotator: A Web Application for ROSBag Data Analysis in Human-Robot Interaction
+
+Services
+======
+* Reviewing: CHI2024, ITSC2024, OzCHI2024
+* Student Volunteer: UbiComp2024 (Day Captain), CHI2024
+* University Services
+  * 2017-2021 Student Representative
+  * 2018 - 2019 Vice-President of CityU Chinese Orchestra
+
 Awards
 ======
 * 2024 ACM/IEEE International Conference on Human-Robot Interaction (HRI) Robot Competition Winner
@@ -57,13 +74,5 @@ Awards
 * 2018 - 2021 Dean’s List
 * 2017 – 2021 CityU Mainland Student Full Scholarship
 * 2020 Outbound Exchange Awards
-
-Services
-======
-* Reviewer: CHI2024, ITSC2024, OzCHI2024
-* Student Volunteer: CHI2024
-* University Services
-  * 2017-2021 Student Representative
-  * 2018 - 2019 Vice-President of CityU Chinese Orchestra
 
 
