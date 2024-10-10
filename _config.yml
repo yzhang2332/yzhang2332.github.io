@@ -12,7 +12,7 @@ title                    : "Yan Zhang|Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yan Zhang"
 #description              : &description "personal description"
-url                      : https://yzhang2332.github.io/yanzhang/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yzhang2332.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yzhang2332/yanzhang"
 
@@ -28,7 +28,7 @@ author:
   location         : "Melbourne, Australia"
   university         : "University of Melbourne"
   uri              : https://yzhang2332.github.io/yanzhang/
-  email            : "yanzhang15(at)student(dot)unimelb(dot)edu(dot)au" 
+  email            : "Yan.Zhang.1(at)unimelb(dot)edu(dot)au" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=CyIEsPgAAAAJ&hl=zh-CN"
