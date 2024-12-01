@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student from the School of Computing and Information Systems, University of Melbourne. I'm supervised by Dr.Wafa Johal, Dr.Jorge Goncalves, and Dr.Jarrod Knibbe from the [Human-Computer Interaction Group](https://cis.unimelb.edu.au/hci) and [Human-Robot Interaction Lab](https://chri-lab.github.io/).
+I'm a Ph.D. candidate from the School of Computing and Information Systems, University of Melbourne. I'm supervised by Dr.Wafa Johal, A/Prof. Jorge Goncalves, and Dr.Jarrod Knibbe from the [Human-Computer Interaction Group](https://cis.unimelb.edu.au/hci) and [Human-Robot Interaction Lab](https://chri-lab.github.io/).
 I completed my Bachelor's degree in Systems Engineering at the City University of Hong Kong. After that, I worked as a Research Engineer for two years at the [Institute for AI Industry Research](https://air.tsinghua.edu.cn/en/) at Tsinghua University.
 My current research focuses on Human-Robot Collaboration, following my previous work on Accessibility Robots and Automated Vehicles.
 <br/><br/>
@@ -64,7 +64,7 @@ Master Supervision
 
 Services
 ======
-* Reviewing: CHI2024, ITSC2024, OzCHI2024
+* Reviewing: CHI2025, HRI2025, CHI2024, OzCHI2024, ITSC2024
 * Student Volunteer: UbiComp2024 (Day Captain), CHI2024
 * University Services
   * 2017-2021 Student Representative
