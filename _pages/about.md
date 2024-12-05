@@ -16,6 +16,12 @@ Publications
 ======
 For more details, please visit my [Google Scholar](https://scholar.google.com/citations?user=CyIEsPgAAAAJ&hl=EN) profile.
 
+2025
+------
+>**ROSAnnotator: A Web Application for ROSBag Data Analysis in Human-Robot Interaction.**<br>
+>**Yan Zhang**, Haoqi Li, Ramtin Tabatabae, and Wafa Johal.<br>
+>In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (Accepted)
+
 2024
 ------
 >**FaceVis: Exploring a Robot’s Face for Affective Visualisation Design.**<br>
