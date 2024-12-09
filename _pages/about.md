@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. candidate from the School of Computing and Information Systems, University of Melbourne. I'm supervised by Dr.Wafa Johal, A/Prof. Jorge Goncalves, and Dr.Jarrod Knibbe from the [Human-Computer Interaction Group](https://cis.unimelb.edu.au/hci) and [Human-Robot Interaction Lab](https://chri-lab.github.io/).
+I'm a Ph.D. candidate from the School of Computing and Information Systems, University of Melbourne. I'm supervised by A/Prof.Wafa Johal, A/Prof.Jorge Goncalves, and Dr.Jarrod Knibbe from the [Human-Computer Interaction Group](https://cis.unimelb.edu.au/hci) and [Human-Robot Interaction Lab](https://chri-lab.github.io/).
 I completed my Bachelor's degree in Systems Engineering at the City University of Hong Kong. After that, I worked as a Research Engineer for two years at the [Institute for AI Industry Research](https://air.tsinghua.edu.cn/en/) at Tsinghua University.
 My current research focuses on Human-Robot Collaboration, following my previous work on Accessibility Robots and Automated Vehicles.
 <br/><br/>
@@ -56,6 +56,10 @@ For more details, please visit my [Google Scholar](https://scholar.google.com/ci
 >Chen Zheng, Muxiao Zi, Wenjie Jiang, Mengdi Chu, **Yan Zhang**, Jirui Yuan, Guyue Zhou, and Jiangtao Gong.<br>
 >In 2023 IEEE International Conference on Robotics and Automation (ICRA)
 
+Workshop Organisation
+======
+2025, [3rd Workshop on Explainability in Human-Robot Collaboration: Real-World Concerns](https://sites.google.com/view/x-hri/home?authuser=0), ACM/IEEE International Conference on Human-Robot Interaction
+
 Projects
 ======
 * **OfficeMate**: Design Considerations and Preliminary Evaluation of an Office Assistant Robot<br>
@@ -71,6 +75,7 @@ Master Supervision
 Services
 ======
 * Reviewing: CHI2025, HRI2025, CHI2024, OzCHI2024, ITSC2024
+* Conference Organisation: [AutoUI2025](https://www.auto-ui.org/25/) Web & Design Chair
 * Student Volunteer: UbiComp2024 (Day Captain), CHI2024
 * University Services
   * 2017-2021 Student Representative
