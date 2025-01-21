@@ -18,9 +18,21 @@ For more details, please visit my [Google Scholar](https://scholar.google.com/ci
 
 2025
 ------
+>**Can you pass that tool?: Implications of Indirect Speech in Physical Human-Robot Collaboration.**<br>
+>**Yan Zhang**, Tharaka Sachintha Ratnayake, Cherie Sew, Jarrod Knibbe, Jorge Goncalves, and Wafa Johal.<br>
+>In the CHI Conference on Human Factors in Computing Systems (Accepted)
+
 >**ROSAnnotator: A Web Application for ROSBag Data Analysis in Human-Robot Interaction.**<br>
->**Yan Zhang**, Haoqi Li, Ramtin Tabatabae, and Wafa Johal.<br>
->In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (Accepted)
+>**Yan Zhang**, Haoqi Li, Ramtin Tabatabaei, and Wafa Johal.<br>
+>In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (Accepted, Short Contribution)
+
+>**Implicit Communication of Contextual Information in Human-Robot Collaboration.**<br>
+>**Yan Zhang**.<br>
+>In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (Accepted, Doctoral Consortium)
+
+>**OfficeMate: Pilot Evaluation of an Office Assistant Robot.**<br>
+>Jiahe Pan, Sarah Schombs, **Yan Zhang**, Ramtin Tabatabaei, Muhammad Bila, and Wafa Johal.<br>
+>In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (Accepted, Late-breaking Report)
 
 2024
 ------
@@ -59,13 +71,6 @@ For more details, please visit my [Google Scholar](https://scholar.google.com/ci
 Workshop Organisation
 ======
 2025, [3rd Workshop on Explainability in Human-Robot Collaboration: Real-World Concerns](https://sites.google.com/view/x-hri/home?authuser=0), ACM/IEEE International Conference on Human-Robot Interaction
-
-Projects
-======
-* **OfficeMate**: Design Considerations and Preliminary Evaluation of an Office Assistant Robot<br>
-
-<iframe width="336" height="189" src="https://www.youtube.com/embed/FzSA27W1sek" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/><br/>
 
 Master Supervision
 ======
