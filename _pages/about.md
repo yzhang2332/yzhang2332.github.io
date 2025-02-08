@@ -9,7 +9,8 @@ redirect_from:
 
 I'm a Ph.D. candidate from the School of Computing and Information Systems, University of Melbourne. I'm supervised by A/Prof.Wafa Johal, A/Prof.Jorge Goncalves, and Dr.Jarrod Knibbe from the [Human-Computer Interaction Group](https://cis.unimelb.edu.au/hci) and [Human-Robot Interaction Lab](https://chri-lab.github.io/).
 I completed my Bachelor's degree in Systems Engineering at the City University of Hong Kong. After that, I worked as a Research Engineer for two years at the [Institute for AI Industry Research](https://air.tsinghua.edu.cn/en/) at Tsinghua University.
-My current research focuses on Human-Robot Collaboration, following my previous work on Accessibility Robots and Automated Vehicles.
+
+My current research focuses on Human-Robot Collaboration, Implicit Communication, and Multi-agentic Systems, following my previous work on Accessibility Robots and Automated Vehicles.
 <br/><br/>
 
 Publications
