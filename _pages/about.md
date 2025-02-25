@@ -29,7 +29,7 @@ For more details, please visit my [Google Scholar](https://scholar.google.com/ci
 
 >**Implicit Communication of Contextual Information in Human-Robot Collaboration.**<br>
 >**Yan Zhang**.<br>
->In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (Accepted, Doctoral Consortium)
+>In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (Accepted, Doctoral Colloquium)
 
 >**OfficeMate: Pilot Evaluation of an Office Assistant Robot.**<br>
 >Jiahe Pan, Sarah Schombs, **Yan Zhang**, Ramtin Tabatabaei, Muhammad Bila, and Wafa Johal.<br>
@@ -87,8 +87,9 @@ Services
   * 2017-2021 Student Representative
   * 2018 - 2019 Vice-President of CityU Chinese Orchestra
 
-Awards
+Scholarship/Awards
 ======
+* 2025 Google Conference Scholarship (APAC)
 * 2024 ACM/IEEE International Conference on Human-Robot Interaction (HRI) Robot Competition Winner
 * 2019 – 2021 CityU Scholarship
 * 2018 - 2021 Dean’s List
