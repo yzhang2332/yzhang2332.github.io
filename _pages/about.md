@@ -10,7 +10,15 @@ redirect_from:
 I'm a Ph.D. candidate from the School of Computing and Information Systems, University of Melbourne. I'm supervised by A/Prof.Wafa Johal, A/Prof.Jorge Goncalves, and Dr.Jarrod Knibbe from the [Human-Computer Interaction Group](https://cis.unimelb.edu.au/hci) and [Human-Robot Interaction Lab](https://chri-lab.github.io/).
 I completed my Bachelor's degree in Systems Engineering at the City University of Hong Kong. After that, I worked as a Research Engineer for two years at the [Institute for AI Industry Research](https://air.tsinghua.edu.cn/en/) at Tsinghua University.
 
-My current research focuses on Human-Robot Collaboration, Implicit Communication, and Multi-agentic Systems, following my previous work on Accessibility Robots and Automated Vehicles.
+My current research focuses on leveraging implicit communication to enhance grounding between humans and robots during physical collaboration. By integrating multimodal interaction and multi-agent LLMs, I aim to enable collaborative robots to interpret and generate context-enriched, human-like communication. I strive to make actionable information exchange between humans and robots intuitive, contributing to more natural, effective, and inclusive interactions for daily activities in the future.
+
+Beyond human-robot collaboration, I am also interested in designing user-centric guiding robots for visually impaired individuals. Recently, I initiated a project to make robotics education accessible to visually impaired children, equipping them with the skills needed for a future surrounded by robotic technologies.
+
+My previous research has also explored autonomous driving.
+
+Outside of research, I am a knitter and a cat lover.
+
+Please reach out to me via email if you’d like to chat! ☕
 <br/><br/>
 
 Publications
