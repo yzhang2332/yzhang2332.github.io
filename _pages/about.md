@@ -33,15 +33,15 @@ For more details, please visit my [Google Scholar](https://scholar.google.com/ci
 
 >**ROSAnnotator: A Web Application for ROSBag Data Analysis in Human-Robot Interaction.**<br>
 >**Yan Zhang**, Haoqi Li, Ramtin Tabatabaei, and Wafa Johal.<br>
->In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction
+>In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (HRI)
 
 >**Implicit Communication of Contextual Information in Human-Robot Collaboration.**<br>
 >**Yan Zhang**.<br>
->In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction
+>In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (HRI)
 
 >**OfficeMate: Pilot Evaluation of an Office Assistant Robot.**<br>
 >Jiahe Pan, Sarah Schombs, **Yan Zhang**, Ramtin Tabatabaei, Muhammad Bila, and Wafa Johal.<br>
->In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction
+>In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (HRI)
 
 2024
 ------
@@ -100,9 +100,10 @@ Scholarship/Awards
 * 2025 Google Conference Scholarship (APAC)
 * 2025 The University of Melbourne Engineering and IT Conference Travel Grant
 * 2024 ACM/IEEE International Conference on Human-Robot Interaction (HRI) Robot Competition Winner
-* 2019 – 2021 CityU Scholarship
+* 2020 CityU Outbound Exchange Awards
+* 2019 – 2021 CityU Annual Scholarship
 * 2018 - 2021 Dean’s List
 * 2017 – 2021 CityU Mainland Student Full Scholarship
-* 2020 Outbound Exchange Awards
+
 
 
