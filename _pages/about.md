@@ -33,15 +33,15 @@ For more details, please visit my [Google Scholar](https://scholar.google.com/ci
 
 >**ROSAnnotator: A Web Application for ROSBag Data Analysis in Human-Robot Interaction.**<br>
 >**Yan Zhang**, Haoqi Li, Ramtin Tabatabaei, and Wafa Johal.<br>
->In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (Accepted, Short Contribution)
+>In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction
 
 >**Implicit Communication of Contextual Information in Human-Robot Collaboration.**<br>
 >**Yan Zhang**.<br>
->In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (Accepted, Doctoral Colloquium)
+>In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction
 
 >**OfficeMate: Pilot Evaluation of an Office Assistant Robot.**<br>
 >Jiahe Pan, Sarah Schombs, **Yan Zhang**, Ramtin Tabatabaei, Muhammad Bila, and Wafa Johal.<br>
->In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (Accepted, Late-breaking Report)
+>In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction
 
 2024
 ------
