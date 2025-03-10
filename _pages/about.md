@@ -83,14 +83,14 @@ Workshop Organisation
 
 Master Supervision
 ======
-* 2024, Integrating Large Language Models with Physical Affordances for Enhanced Manipulation Tasks in Tiago Robot
-* 2024, ROSAnnotator: A Web Application for ROSBag Data Analysis in Human-Robot Interaction
+* 2024, Shaoxuan Yan, Integrating Large Language Models with Physical Affordances for Enhanced Manipulation Tasks in Tiago Robot
+* 2024, Haoqi Li, Web Application for ROSBag Data Analysis in Human-Robot Interaction
 
 Services
 ======
 * Reviewing: CHI2025, HRI2025, CHI2024, OzCHI2024, ITSC2024
-* Conference Organisation: [AutoUI2025](https://www.auto-ui.org/25/) Web & Design Chair
-* Student Volunteer: UbiComp2024 (Day Captain), CHI2024
+* Conference Organisation: [HRI2026](https://humanrobotinteraction.org/2026/) Student Volunteer Chair, [AutoUI2025](https://www.auto-ui.org/25/) Web & Design Chair
+* Student Volunteer: HRI2025, UbiComp2024 (Day Captain), CHI2024
 * University Services
   * 2017-2021 Student Representative
   * 2018 - 2019 Vice-President of CityU Chinese Orchestra
@@ -98,6 +98,7 @@ Services
 Scholarship/Awards
 ======
 * 2025 Google Conference Scholarship (APAC)
+* 2025 The University of Melbourne Engineering and IT Conference Travel Grant
 * 2024 ACM/IEEE International Conference on Human-Robot Interaction (HRI) Robot Competition Winner
 * 2019 – 2021 CityU Scholarship
 * 2018 - 2021 Dean’s List
