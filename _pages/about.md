@@ -10,9 +10,9 @@ redirect_from:
 I'm a second-year Ph.D. candidate from the School of Computing and Information Systems, University of Melbourne. I'm supervised by A/Prof.Wafa Johal, A/Prof.Jorge Goncalves, and Dr.Jarrod Knibbe from the [Human-Computer Interaction Group](https://cis.unimelb.edu.au/hci) and [Human-Robot Interaction Lab](https://chri-lab.github.io/).
 I completed my Bachelor's degree in Systems Engineering at the City University of Hong Kong in 2021. After that, I worked as a Research Engineer for two years at the [Institute for AI Industry Research](https://air.tsinghua.edu.cn/en/) at Tsinghua University.
 
-My current research focuses on leveraging implicit communication to enhance grounding between humans and robots during physical collaboration. By integrating multimodal interaction and multi-agent LLMs, I aim to enable collaborative robots to interpret and generate context-enriched, human-like communication. I strive to make actionable information exchange between humans and robots intuitive, contributing to more natural, effective, and inclusive interactions for daily activities in the future.
+My current research focuses on leveraging implicit communication to enhance grounding between humans and robots during physical collaboration. By integrating multi-agentic LLMs, I aim to enable collaborative robots to interpret and generate context-enriched, human-like communication. I strive to make actionable information exchange between humans and robots intuitive, contributing to more natural, effective, and inclusive interactions for daily activities in the future.
 
-Beyond human-robot collaboration, I am also interested in designing user-centric guiding robots for visually impaired individuals. Recently, I initiated a project to make robotics education accessible to visually impaired children, equipping them with the skills needed for a future surrounded by robotic technologies.
+Beyond human-robot collaboration, I am also interested in designing user-centric guiding robots for visually impaired individuals.
 
 My previous research has also explored autonomous driving.
 
@@ -31,6 +31,10 @@ For more details, please visit my [Google Scholar](https://scholar.google.com/ci
 >**Yan Zhang**, Tharaka Sachintha Ratnayake, Cherie Sew, Jarrod Knibbe, Jorge Goncalves, and Wafa Johal.<br>
 >In the CHI Conference on Human Factors in Computing Systems
 
+>**From Conversation to Orchestration: HCI Challenges and Opportunities in Interactive Multi-Agentic Systems.**<br>
+>Sarah Schoembs&#42;, **Yan Zhang&#42;**, Jorge Goncalves, and Wafa Johal.<br>
+>In Proceedings of the 13th International Conference on Human-Agent Interaction (HAI)
+
 >**ROSAnnotator: A Web Application for ROSBag Data Analysis in Human-Robot Interaction.**<br>
 >**Yan Zhang**, Haoqi Li, Ramtin Tabatabaei, and Wafa Johal.<br>
 >In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (HRI)
@@ -40,8 +44,12 @@ For more details, please visit my [Google Scholar](https://scholar.google.com/ci
 >In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (HRI)
 
 >**OfficeMate: Pilot Evaluation of an Office Assistant Robot.**<br>
->Jiahe Pan, Sarah Schombs, **Yan Zhang**, Ramtin Tabatabaei, Muhammad Bila, and Wafa Johal.<br>
+>Jiahe Pan, Sarah Schoembs, **Yan Zhang**, Ramtin Tabatabaei, Muhammad Bila, and Wafa Johal.<br>
 >In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (HRI)
+
+>**Exploring Deictic Interface Referencing Outside-Vehicle Landmarks: Study of In-cabin Multimodal Interaction.**<br>
+>Yueteng Yu,  **Yan Zhang**, Wafa Johal, Gary Burnett.<br>
+>In Adjunct Proceedings of the 17th International Conference on Automotive User Interfaces and Interactive Vehicular Applications (AutoUI)
 
 >**AI system facilitates people with blindness and low vision in interpreting and experiencing unfamiliar environments.**<br>
 >Haozhe Lin, Jiangtao Gong, Yu Wang, Jinsong Zhang, Bing Bai, **Yan Zhang**, Luyao Wang, Chenyu Wei, Yancheng Cao, Kun Li, Ruqi Huang, and Guyue Zhou.<br>
@@ -50,8 +58,8 @@ For more details, please visit my [Google Scholar](https://scholar.google.com/ci
 2024
 ------
 >**FaceVis: Exploring a Robot’s Face for Affective Visualisation Design.**<br>
->Sarah Schombs, Jiahe Pan, **Yan Zhang**, Jorge Goncalves, and Wafa Johal.<br>
->In Extended abstracts of the 2024 CHI conference on human factors in computing systems
+>Sarah Schoembs, Jiahe Pan, **Yan Zhang**, Jorge Goncalves, and Wafa Johal.<br>
+>In the Extended abstracts of the 2024 CHI conference on human factors in computing systems
 
 >**More Than Routing: Joint GPS and Route Modeling for Refine Trajectory Representation Learning.**<br>
 >Zhipeng Ma, Zheyan Tu, Xinhai Chen, **Yan Zhang**, Deguo Xia, Guyue Zhou, Yilun Chen, Yu Zheng, Jiangtao Gong.<br>
@@ -79,7 +87,9 @@ For more details, please visit my [Google Scholar](https://scholar.google.com/ci
 ------
 >**Non-Driving-Related Tasks Influencing Drivers' Takeover Time: A Meta-Analysis.**<br>
 >**Yan Zhang**<br>
->Undergraduate thesis, published in 2024 Transportation research part F: traffic psychology and behaviour<br>
+>Undergraduate thesis, **published in 2024 Transportation research part F: traffic psychology and behaviour**<br>
+
+&#42;: Equal Contribution
 
 Workshop Organisation
 ======
@@ -87,14 +97,20 @@ Workshop Organisation
 
 Master Supervision
 ======
-* 2025, Haoqi Li, Cognitive Architecture for Multi-LLMs Enabled Robotic Systems
-* 2024, Shaoxuan Yan, Integrating Large Language Models with Physical Affordances for Enhanced Manipulation Tasks in Tiago Robot
+* 2025, Haoqi Li, A Memory-Centric Multi-Agentic Cognitive Architecture for Long-Term Human-Robot Interaction
+* 2024, Shaoxuan Yan, Integrating Large Language Models (LLM) with Physical Affordances for Enhanced Manipulation Tasks in Tiago Robot
 * 2024, Haoqi Li, Web Application for ROSBag Data Analysis in Human-Robot Interaction
+
+Teaching
+======
+Graduate Researcher Academic Associate (GRAA), Education-focused
+
+* 2025 INFO10003 Fundamentals of Interaction Design
 
 Services
 ======
-* Reviewing: UIST 2025, CHI2025, HRI2025, CHI2024, OzCHI2024, ITSC2024
-* Conference Organisation: [HRI2026](https://humanrobotinteraction.org/2026/) Student Volunteer Chair, [AutoUI2025](https://www.auto-ui.org/25/) Web & Design Chair
+* Reviewer:  RA-L, RO-MAN2025, IROS2025, UIST2025, CHI24-25, HRI2025, OzCHI2024, ITSC2024
+* Conference Organisor: [HRI2026](https://humanrobotinteraction.org/2026/) Student Volunteer Chair, [HRI2026 Pioneer](https://hripioneers.org/) Program Chair, [AutoUI2025](https://www.auto-ui.org/25/) Web & Design Chair
 * Student Volunteer: HRI2025, UbiComp2024 (Day Captain), CHI2024
 * University Services
   * 2017-2021 Student Representative
