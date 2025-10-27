@@ -109,7 +109,7 @@ Graduate Researcher Academic Associate (GRAA), Education-focused
 
 Services
 ======
-* Reviewer:  RA-L, RO-MAN'25, IROS'25, UIST'25, CHI'24-25, HRI'25, OzCHI'24, ITSC'24
+* Reviewer:  RA-L, RO-MAN'25, IROS'25, UIST'25, CHI'23-25, HRI'25, OzCHI'24, ITSC'24
 * Conference Organisor: [HRI2026](https://humanrobotinteraction.org/2026/) Student Volunteer Chair, [HRI2026 Pioneer](https://hripioneers.org/) Program Chair, [AutoUI2025](https://www.auto-ui.org/25/) Web & Design Chair
 * Student Volunteer: HRI2025, UbiComp2024 (Day Captain), CHI2024
 * University Services
