@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year Ph.D. candidate from the School of Computing and Information Systems, University of Melbourne. I'm supervised by A/Prof.Wafa Johal, A/Prof.Jorge Goncalves, and Dr.Jarrod Knibbe from the [Human-Computer Interaction Group](https://cis.unimelb.edu.au/hci) and [Human-Robot Interaction Lab](https://chri-lab.github.io/).
+I'm a third-year Ph.D. candidate from the School of Computing and Information Systems, University of Melbourne. I'm supervised by A/Prof.Wafa Johal, A/Prof.Jorge Goncalves, and Dr.Jarrod Knibbe from the [Human-Computer Interaction Group](https://cis.unimelb.edu.au/hci) and [Human-Robot Interaction Lab](https://chri-lab.github.io/).
 I completed my Bachelor's degree in Systems Engineering at the City University of Hong Kong in 2021. After that, I worked as a Research Engineer for two years at the [Institute for AI Industry Research](https://air.tsinghua.edu.cn/en/) at Tsinghua University.
 
-My current research focuses on leveraging implicit communication to enhance grounding between humans and robots during physical collaboration. By integrating multi-agentic LLMs, I aim to enable collaborative robots to interpret and generate context-enriched, human-like communication. I strive to make actionable information exchange between humans and robots intuitive, contributing to more natural, effective, and inclusive interactions for daily activities in the future.
+My current research focuses on leveraging implicit communication to enhance grounding between humans and robots during physical collaboration. By integrating multi-agentic LLMs, I aim to enable collaborative robots to interpret and generate context-enriched, human-like communication. I strive to make the exchange of actionable information between humans and robots intuitive, contributing to more natural, effective, and inclusive interactions for daily activities in the future.
 
 Beyond human-robot collaboration, I am also interested in designing user-centric guiding robots for visually impaired individuals.
 
@@ -109,7 +109,7 @@ Graduate Researcher Academic Associate (GRAA), Education-focused
 
 Services
 ======
-* Reviewer:  RA-L, RO-MAN'25, IROS'25, UIST'25, CHI'23-25, HRI'25, OzCHI'24, ITSC'24
+* Reviewer:  HRI'25-26, CHI'23-26, RA-L, RO-MAN'25, IROS'25, UIST'25, OzCHI'24, ITSC'24
 * Conference Organisor: [HRI2026](https://humanrobotinteraction.org/2026/) Student Volunteer Chair, [HRI2026 Pioneer](https://hripioneers.org/) Program Chair, [AutoUI2025](https://www.auto-ui.org/25/) Web & Design Chair
 * Student Volunteer: HRI2025, UbiComp2024 (Day Captain), CHI2024
 * University Services
