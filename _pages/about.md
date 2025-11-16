@@ -107,7 +107,7 @@ Others
 ======
 **Workshop Organisation**
 
-2025, [3rd Workshop on Explainability in Human-Robot Collaboration: Real-World Concerns](https://sites.google.com/view/x-hri/home?authuser=0), ACM/IEEE International Conference on Human-Robot Interaction
+2025, [3rd Workshop on Explainability in Human-Robot Collaboration: Real-World Concerns](https://sites.google.com/view/x-hri/home?authuser=0), HRI2025
 
 **Exhibition**
 
