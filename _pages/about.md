@@ -107,11 +107,11 @@ Others
 ======
 **Workshop Organisation**
 
-2025, [3rd Workshop on Explainability in Human-Robot Collaboration: Real-World Concerns](https://sites.google.com/view/x-hri/home?authuser=0), HRI2025
+[3rd Workshop on Explainability in Human-Robot Collaboration: Real-World Concerns](https://sites.google.com/view/x-hri/home?authuser=0), HRI2025
 
 **Exhibition**
 
-2025, "A Robot of Many Minds" at the National Communication Museum. ([webpage](https://ncm.org.au/exhibitions/r-d), [post](https://www.facebook.com/nationalcommunicationmuseum/posts/introducing-the-ncm-rd-space-something-were-passionate-about-here-at-ncm-is-show/122205211382322402/))
+"A Robot of Many Minds" at the National Communication Museum. ([webpage](https://ncm.org.au/exhibitions/r-d), [post](https://www.facebook.com/nationalcommunicationmuseum/posts/introducing-the-ncm-rd-space-something-were-passionate-about-here-at-ncm-is-show/122205211382322402/))
 
 Services
 ======
