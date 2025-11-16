@@ -91,10 +91,6 @@ For more details, please visit my [Google Scholar](https://scholar.google.com/ci
 
 &#42;: Equal Contribution
 
-Workshop Organisation
-======
-2025, [3rd Workshop on Explainability in Human-Robot Collaboration: Real-World Concerns](https://sites.google.com/view/x-hri/home?authuser=0), ACM/IEEE International Conference on Human-Robot Interaction
-
 Master Supervision
 ======
 * 2025, Haoqi Li, A Memory-Centric Multi-Agentic Cognitive Architecture for Long-Term Human-Robot Interaction
@@ -106,6 +102,16 @@ Teaching
 Graduate Researcher Academic Associate (GRAA), Education-focused
 
 * 2025 INFO10003 Fundamentals of Interaction Design
+
+Others
+======
+**Workshop Organisation**
+
+2025, [3rd Workshop on Explainability in Human-Robot Collaboration: Real-World Concerns](https://sites.google.com/view/x-hri/home?authuser=0), ACM/IEEE International Conference on Human-Robot Interaction
+
+**Exhibition**
+
+2025, "A Robot of Many Minds" at the National Communication Museum. ([webpage](https://ncm.org.au/exhibitions/r-d), [post](https://www.facebook.com/nationalcommunicationmuseum/posts/introducing-the-ncm-rd-space-something-were-passionate-about-here-at-ncm-is-show/122205211382322402/))
 
 Services
 ======
