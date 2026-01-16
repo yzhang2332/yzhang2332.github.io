@@ -61,7 +61,7 @@ For more details, please visit my [Google Scholar](https://scholar.google.com/ci
 >Sarah Schoembs, Jiahe Pan, **Yan Zhang**, Jorge Goncalves, and Wafa Johal.<br>
 >In the Extended abstracts of the 2024 CHI conference on human factors in computing systems
 
->**More Than Routing: Joint GPS and Route Modeling for Refine Trajectory Representation Learning.**<br>
+>**More Than Routing: Joint GPS and Route Modelling for Refine Trajectory Representation Learning.**<br>
 >Zhipeng Ma, Zheyan Tu, Xinhai Chen, **Yan Zhang**, Deguo Xia, Guyue Zhou, Yilun Chen, Yu Zheng, Jiangtao Gong.<br>
 >In Proceedings of the ACM on Web Conference (WWW) 2024
 
@@ -101,13 +101,16 @@ Teaching
 ======
 Graduate Researcher Academic Associate (GRAA), Education-focused
 
+* 2026 COMP10003 Media Computation
 * 2025 INFO10003 Fundamentals of Interaction Design
 
 Others
 ======
 **Workshop Organisation**
 
-[3rd Workshop on Explainability in Human-Robot Collaboration: Real-World Concerns](https://sites.google.com/view/x-hri/home?authuser=0), HRI2025
+[Multi-Agentic Systems in HRI (MAgicS-HRI): Bridging Design and Real-World Challenges for End Users](https://sites.google.com/view/magics-hri/home), HRI'26
+
+[3rd Workshop on Explainability in Human-Robot Collaboration: Real-World Concerns](https://sites.google.com/view/x-hri/home), HRI'25
 
 **Exhibition**
 
@@ -115,12 +118,15 @@ Others
 
 Services
 ======
-* Reviewer:  HRI'25-26, CHI'23-26, RA-L, RO-MAN'25, IROS'25, UIST'25, OzCHI'24, ITSC'24
-* Conference Organisor: [HRI2026](https://humanrobotinteraction.org/2026/) Student Volunteer Chair, [HRI2026 Pioneer](https://hripioneers.org/) Program Chair, [AutoUI2025](https://www.auto-ui.org/25/) Web & Design Chair
-* Student Volunteer: HRI2025, UbiComp2024 (Day Captain), CHI2024
+* Review:
+  * HRI'25-26, CHI'23-26, RA-L, RO-MAN'25, IROS'25, UIST'25, OzCHI'24, ITSC'24
+  * TOCHI distinguished reviewer board
+  * AC: HRI'26 LBR, HRI'26 Pioneer
+* Conference Organisor: [HRI'26](https://humanrobotinteraction.org/2026/) Student Volunteer Chair, [HRI'26 Pioneer](https://hripioneers.org/) Program Chair, [AutoUI'25](https://www.auto-ui.org/25/) Web & Design Chair
+* Student Volunteer: HRI'25, UbiComp'24 (Day Captain), CHI'24
 * University Services
   * 2017-2021 Student Representative
-  * 2018 - 2019 Vice-President of CityU Chinese Orchestra
+  * 2018-2019 Vice-President of CityU Chinese Orchestra
 
 Scholarship/Awards
 ======
