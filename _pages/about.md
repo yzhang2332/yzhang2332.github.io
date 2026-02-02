@@ -91,11 +91,36 @@ For more details, please visit my [Google Scholar](https://scholar.google.com/ci
 
 &#42;: Equal Contribution
 
+Academic Services
+======
+* Review:
+  * HRI'25-26, CHI'23-26, RA-L, RO-MAN'25, IROS'25, UIST'25, OzCHI'24, ITSC'24
+  * TOCHI distinguished reviewer board
+  * AC: HRI'26 LBR, HRI'26 Pioneer
+* Conference Organisor: [HRI'26](https://humanrobotinteraction.org/2026/) Student Volunteer Chair, [HRI'26 Pioneer](https://hripioneers.org/) Program Chair, [AutoUI'25](https://www.auto-ui.org/25/) Web & Design Chair
+* Student Volunteer: HRI'25, UbiComp'24 (Day Captain), CHI'24
+
 Master Supervision
 ======
-* 2025, Haoqi Li, A Memory-Centric Multi-Agentic Cognitive Architecture for Long-Term Human-Robot Interaction
-* 2024, Shaoxuan Yan, Integrating Large Language Models (LLM) with Physical Affordances for Enhanced Manipulation Tasks in Tiago Robot
-* 2024, Haoqi Li, Web Application for ROSBag Data Analysis in Human-Robot Interaction
+* 2025 Haoqi Li: A Memory-Centric Multi-Agentic Cognitive Architecture for Long-Term Human-Robot Interaction
+* 2024 Shaoxuan Yan: Integrating Large Language Models (LLM) with Physical Affordances for Enhanced Manipulation Tasks in Tiago Robot
+* 2024 Haoqi Li: Web Application for ROSBag Data Analysis in Human-Robot Interaction
+
+Organising
+======
+**Conference Workshops**
+
+* 2026 [Multi-Agentic Systems in HRI (MAgicS-HRI): Bridging Design and Real-World Challenges for End Users](https://sites.google.com/view/magics-hri/home), HRI'26
+
+* 2025 [3rd Workshop on Explainability in Human-Robot Collaboration: Real-World Concerns](https://sites.google.com/view/x-hri/home), HRI'25
+
+**Exhibition**
+
+* 2025 _A Robot of Many Minds_ at the National Communication Museum. ([webpage](https://ncm.org.au/exhibitions/r-d), [post](https://www.facebook.com/nationalcommunicationmuseum/posts/introducing-the-ncm-rd-space-something-were-passionate-about-here-at-ncm-is-show/122205211382322402/))
+
+Invited Talk
+======
+* 2025 _The Language of Collaboration: Understanding and Expressing Implicit Intent in Human-Robot Teams_ at HRI Lab, Kyoto University
 
 Teaching
 ======
@@ -104,32 +129,9 @@ Graduate Researcher Academic Associate (GRAA), Education-focused
 * 2026 COMP10003 Media Computation
 * 2025 INFO10003 Fundamentals of Interaction Design
 
-Others
-======
-**Workshop Organisation**
-
-[Multi-Agentic Systems in HRI (MAgicS-HRI): Bridging Design and Real-World Challenges for End Users](https://sites.google.com/view/magics-hri/home), HRI'26
-
-[3rd Workshop on Explainability in Human-Robot Collaboration: Real-World Concerns](https://sites.google.com/view/x-hri/home), HRI'25
-
-**Exhibition**
-
-"A Robot of Many Minds" at the National Communication Museum. ([webpage](https://ncm.org.au/exhibitions/r-d), [post](https://www.facebook.com/nationalcommunicationmuseum/posts/introducing-the-ncm-rd-space-something-were-passionate-about-here-at-ncm-is-show/122205211382322402/))
-
-Services
-======
-* Review:
-  * HRI'25-26, CHI'23-26, RA-L, RO-MAN'25, IROS'25, UIST'25, OzCHI'24, ITSC'24
-  * TOCHI distinguished reviewer board
-  * AC: HRI'26 LBR, HRI'26 Pioneer
-* Conference Organisor: [HRI'26](https://humanrobotinteraction.org/2026/) Student Volunteer Chair, [HRI'26 Pioneer](https://hripioneers.org/) Program Chair, [AutoUI'25](https://www.auto-ui.org/25/) Web & Design Chair
-* Student Volunteer: HRI'25, UbiComp'24 (Day Captain), CHI'24
-* University Services
-  * 2017-2021 Student Representative
-  * 2018-2019 Vice-President of CityU Chinese Orchestra
-
 Scholarship/Awards
 ======
+* 2025 Certificate in Small-Group Teaching
 * 2025 Diane Lemaire Scholarship
 * 2025 Google Conference Scholarship (APAC)
 * 2025 The University of Melbourne Engineering and IT Conference Travel Grant
