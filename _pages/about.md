@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year Ph.D. candidate from the School of Computing and Information Systems, University of Melbourne. I'm supervised by A/Prof.Wafa Johal, A/Prof.Jorge Goncalves, and Dr.Jarrod Knibbe from the [Human-Computer Interaction Group](https://cis.unimelb.edu.au/hci) and [Human-Robot Interaction Lab](https://chri-lab.github.io/).
+I'm a final year Ph.D. candidate from the School of Computing and Information Systems, University of Melbourne. I'm supervised by A/Prof.Wafa Johal, A/Prof.Jorge Goncalves, and Dr.Jarrod Knibbe from the [Human-Computer Interaction Group](https://cis.unimelb.edu.au/hci) and [Human-Robot Interaction Lab](https://chri-lab.github.io/).
 I completed my Bachelor's degree in Systems Engineering at the City University of Hong Kong in 2021. After that, I worked as a Research Engineer for two years at the [Institute for AI Industry Research](https://air.tsinghua.edu.cn/en/) at Tsinghua University.
 
 My current research focuses on leveraging implicit communication to enhance grounding between humans and robots during physical collaboration. By integrating multi-agentic LLMs, I aim to enable collaborative robots to interpret and generate context-enriched, human-like communication. I strive to make the exchange of actionable information between humans and robots intuitive, contributing to more natural, effective, and inclusive interactions for daily activities in the future.
