@@ -32,11 +32,11 @@ For more details, please visit my [Google Scholar](https://scholar.google.com/ci
 >Under review
 
 >**When Robots Respond to Indirect Request: Design Implications for Trust and Team Dynamics in Human-Multi-Robot Collaboration**<br>
->**Yan Zhang**, Sarah Schoembs&#42;, Matthew Sigdji, Jarrod Knibbe, Jorge Goncalves, and Wafa Johal.<br>
+>**Yan Zhang**, Sarah Schoembs, Matthew Sigdji, Jarrod Knibbe, Jorge Goncalves, and Wafa Johal.<br>
 >Under review
 
 >**One Body, Many Minds: Exploring Design Frictions and Considerations for Multi-Agentic Systems in Human-Robot Interaction**<br>
->Sarah Schoembs&#42;, **Yan Zhang**, Canghai Wang, and Wafa Johal.<br>
+>Sarah Schoembs, **Yan Zhang**, Canghai Wang, and Wafa Johal.<br>
 >In the Extended abstracts of the 2026 CHI conference on human factors in computing systems
 
 2025
