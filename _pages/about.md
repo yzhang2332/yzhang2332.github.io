@@ -25,6 +25,20 @@ Publications
 ======
 For more details, please visit my [Google Scholar](https://scholar.google.com/citations?user=CyIEsPgAAAAJ&hl=EN) profile.
 
+2026
+------
+>**How Robot Response Strategies Influence Grounding and Communication Effort in Human-Robot Collaboration?**<br>
+>**Yan Zhang**, Jarrod Knibbe, Jorge Goncalves, and Wafa Johal.<br>
+>Under review
+
+>**When Robots Respond to Indirect Request: Design Implications for Trust and Team Dynamics in Human-Multi-Robot Collaboration**<br>
+>**Yan Zhang**, Sarah Schoembs&#42;, Matthew Sigdji, Jarrod Knibbe, Jorge Goncalves, and Wafa Johal.<br>
+>Under review
+
+>**One Body, Many Minds: Exploring Design Frictions and Considerations for Multi-Agentic Systems in Human-Robot Interaction**<br>
+>Sarah Schoembs&#42;, **Yan Zhang**, Canghai Wang, and Wafa Johal.<br>
+>In the Extended abstracts of the 2026 CHI conference on human factors in computing systems
+
 2025
 ------
 >**Can you pass that tool?: Implications of Indirect Speech in Physical Human-Robot Collaboration.**<br>
@@ -94,14 +108,15 @@ For more details, please visit my [Google Scholar](https://scholar.google.com/ci
 Academic Services
 ======
 * Review:
-  * HRI'25-26, CHI'23-26, RA-L, RO-MAN'25, IROS'25, UIST'25, OzCHI'24, ITSC'24
+  * HRI, CHI, RA-L, RO-MAN, IROS, UIST'25, OzCHI'24, ITSC'24
   * TOCHI distinguished reviewer board
-  * AC: HRI'26 LBR, HRI'26 Pioneer
+* AC: HRI'26 LBR, HRI'26 Pioneer
 * Conference Organisor: [HRI'26](https://humanrobotinteraction.org/2026/) Student Volunteer Chair, [HRI'26 Pioneer](https://hripioneers.org/) Program Chair, [AutoUI'25](https://www.auto-ui.org/25/) Web & Design Chair
 * Student Volunteer: HRI'25, UbiComp'24 (Day Captain), CHI'24
 
 Master Supervision
 ======
+* 2026 Shaun Murray: Designing AI to Prevent Health Anxiety: Avoiding Patient Over-Interpretation of Medical Test Results
 * 2025 Haoqi Li: A Memory-Centric Multi-Agentic Cognitive Architecture for Long-Term Human-Robot Interaction
 * 2024 Shaoxuan Yan: Integrating Large Language Models (LLM) with Physical Affordances for Enhanced Manipulation Tasks in Tiago Robot
 * 2024 Haoqi Li: Web Application for ROSBag Data Analysis in Human-Robot Interaction
@@ -129,7 +144,7 @@ Graduate Researcher Academic Associate (GRAA), Education-focused
 * 2026 COMP10003 Media Computation
 * 2025 INFO10003 Fundamentals of Interaction Design
 
-Scholarship/Awards
+Scholarship/Award/Certificate
 ======
 * 2025 Certificate in Small-Group Teaching
 * 2025 Diane Lemaire Scholarship
