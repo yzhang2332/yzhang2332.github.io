@@ -150,7 +150,7 @@ Scholarship/Award/Certificate
 * 2025 Diane Lemaire Scholarship
 * 2025 Google Conference Scholarship (APAC)
 * 2025 The University of Melbourne Engineering and IT Conference Travel Grant
-* 2025 Selected Pioneer of Human-Robot Interaction (HRI)
+* 2025 Pioneer of Human-Robot Interaction (HRI)
 * 2024 ACM/IEEE International Conference on Human-Robot Interaction (HRI) Robot Competition Winner
 * 2023 Melbourne Research Scholarship
 * 2020 CityU Outbound Exchange Awards
