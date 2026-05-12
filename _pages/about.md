@@ -108,9 +108,10 @@ For more details, please visit my [Google Scholar](https://scholar.google.com/ci
 Academic Services
 ======
 * Review:
-  * HRI, CHI, RA-L, RO-MAN, IROS, UIST'25, OzCHI'24, ITSC'24
+  * HRI, CHI, RA-L, THRI, RO-MAN, IROS, UIST, OzCHI'24, ITSC'24
   * TOCHI distinguished reviewer board
 * AC: HRI'26 LBR, HRI'26 Pioneer
+* Guest Editor: [International Journal of Social Robotics](https://link.springer.com/collections/cjiaigchbd)
 * Conference Organisor: [HRI'26](https://humanrobotinteraction.org/2026/) Student Volunteer Chair, [HRI'26 Pioneer](https://hripioneers.org/) Program Chair, [AutoUI'25](https://www.auto-ui.org/25/) Web & Design Chair
 * Student Volunteer: HRI'25, UbiComp'24 (Day Captain), CHI'24
 
