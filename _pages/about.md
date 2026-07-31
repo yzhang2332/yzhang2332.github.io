@@ -142,6 +142,7 @@ Teaching
 ======
 Graduate Researcher Academic Associate (GRAA), Education-focused
 
+* 2026 INFO10003 Fundamentals of Interaction Design
 * 2026 COMP10003 Media Computation
 * 2025 INFO10003 Fundamentals of Interaction Design
 
