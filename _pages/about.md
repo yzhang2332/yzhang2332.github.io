@@ -117,10 +117,10 @@ Academic Services
 
 Master Supervision
 ======
-* 2026 Shaun Murray: Designing AI to Prevent Health Anxiety: Avoiding Patient Over-Interpretation of Medical Test Results
-* 2025 Haoqi Li: A Memory-Centric Multi-Agentic Cognitive Architecture for Long-Term Human-Robot Interaction
-* 2024 Shaoxuan Yan: Integrating Large Language Models (LLM) with Physical Affordances for Enhanced Manipulation Tasks in Tiago Robot
-* 2024 Haoqi Li: Web Application for ROSBag Data Analysis in Human-Robot Interaction
+* 2026 Shaun Murray (H1): Designing AI to Prevent Health Anxiety: Avoiding Patient Over-Interpretation of Medical Test Results
+* 2025 Haoqi Li (Workshop paper): A Memory-Centric Multi-Agentic Cognitive Architecture for Long-Term Human-Robot Interaction
+* 2024 Shaoxuan Yan (H1): Integrating Large Language Models (LLM) with Physical Affordances for Enhanced Manipulation Tasks in Tiago Robot
+* 2024 Haoqi Li (Conference paper): Web Application for ROSBag Data Analysis in Human-Robot Interaction
 
 Organising
 ======
